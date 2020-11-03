@@ -11,5 +11,5 @@ venv/
 __pycache__
 .pytest_cache
 
-/flask
-/data/*
+flask/*
+*.db

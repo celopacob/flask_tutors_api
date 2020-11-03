@@ -51,6 +51,7 @@ System requirements: npm or yarn
     
 * To run the frontend app:
     - Access the 'frontend' folder;
+    - yarn (or npm) install;
     - yarn (or npm) start
     - the frontend app should be available on 127.0.0.1:8081
     

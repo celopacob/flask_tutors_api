@@ -1,0 +1,12 @@
+# production
+/build
+
+# misc
+.DS_Store
+
+*.pyc
+.vscode/
+.idea/
+venv/
+__pycache__
+.pytest_cache

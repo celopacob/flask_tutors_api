@@ -8,7 +8,7 @@ Please take the following into the consideration when developing the solution:
 ● The challenge should be self-contained and easy to build, run and test;<br> 
 ● Use whichever MVC frameworks you prefer or feel more comfortable with; 
 
-● The backend is expected to offer a RESTful API; 
+● The backend is expected to offer a RESTful API;<br> 
 ● UI and UX are not relevant, neither authentication nor authorization; 
 
 ● Persist data in a simple manner, e.g. file-based database;<br> 

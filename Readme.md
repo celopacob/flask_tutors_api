@@ -4,14 +4,14 @@ TutorMatch is a startup that helps students find the best tutors. Your mission i
 
 Please take the following into the consideration when developing the solution: 
 
-● As a guideline, expect working up to 4 hours; 
-● The challenge should be self-contained and easy to build, run and test; 
+● As a guideline, expect working up to 4 hours;<br>
+● The challenge should be self-contained and easy to build, run and test;<br> 
 ● Use whichever MVC frameworks you prefer or feel more comfortable with; 
 
 ● The backend is expected to offer a RESTful API; 
 ● UI and UX are not relevant, neither authentication nor authorization; 
 
-● Persist data in a simple manner, e.g. file-based database; 
+● Persist data in a simple manner, e.g. file-based database;<br> 
 ● Apply as much as possible: Simplicity, Readability, Reusability, Scalability, Performance, Code quality, Design patterns and Best practices; 
 
 
